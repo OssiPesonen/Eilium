@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Information xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TemplateFolder>hearthstone</TemplateFolder>
+  <ServerAddress>localhost</ServerAddress>
+  <AMCPPort>5250</AMCPPort>
+  <OSCPort>5253</OSCPort>
+  <CasterNicknameLeft>SEMMLER</CasterNicknameLeft>
+  <CasterNameLeft>AUGUSTE MASSONNAT</CasterNameLeft>
+  <CasterTwitterLeft>@ONFIRESEMMLER</CasterTwitterLeft>
+  <CasterNicknameRight>LURPPIS</CasterNicknameRight>
+  <CasterNameRight>TOMI KOVANEN</CasterNameRight>
+  <CasterTwitterRight>@LURPPISCS</CasterTwitterRight>
+  <Twitter1>#ROGTOURNAMENT</Twitter1>
+  <Twitter2 />
+  <BoxLeftTitle>SCHEDULE</BoxLeftTitle>
+  <BoxLeftC1>12.00</BoxLeftC1>
+  <BoxLeftC2>13.00</BoxLeftC2>
+  <BoxLeftC3>14.00</BoxLeftC3>
+  <BoxLeftC4>15.00</BoxLeftC4>
+  <BoxLeftC5>16.00</BoxLeftC5>
+  <BoxLeftC6>18:00</BoxLeftC6>
+  <BoxLeftC7>19.00</BoxLeftC7>
+  <BoxLeftC8>20.00</BoxLeftC8>
+  <BoxLeftT1>GROUP A MATCHES</BoxLeftT1>
+  <BoxLeftT2>GROUP B MATCHES</BoxLeftT2>
+  <BoxLeftT3>GROUP C MATCHES</BoxLeftT3>
+  <BoxLeftT4>GROUP D MATCHES</BoxLeftT4>
+  <BoxLeftT5>GROUP E MATCHES</BoxLeftT5>
+  <BoxLeftT6>SEMIFINALS</BoxLeftT6>
+  <BoxLeftT7>PLAYOFFS</BoxLeftT7>
+  <BoxLeftT8>FINALS</BoxLeftT8>
+  <GroupJSONUrl>http://tournaments.peliliiga.fi/winter15/tournaments/asus-rog-cs-go-winter-tournament-2015/groups/index.json</GroupJSONUrl>
+  <GroupTitle>ASUS ROG TOURNAMENT GROUPS</GroupTitle>
+  <Group1Title>GROUP A</Group1Title>
+  <Group2Title>GROUP B</Group2Title>
+  <Group3Title />
+  <Group4Title />
+  <Group1Name1>VIRTUS.PRO</Group1Name1>
+  <Group1Name2>VOLGARE</Group1Name2>
+  <Group1Name3>HELLRAISERS</Group1Name3>
+  <Group1Name4>PENTA SPORTS</Group1Name4>
+  <Group1Wins1>0</Group1Wins1>
+  <Group1Wins2>0</Group1Wins2>
+  <Group1Wins3>0</Group1Wins3>
+  <Group1Wins4>0</Group1Wins4>
+  <Group2Name1>MOUSESPORTS</Group2Name1>
+  <Group2Name2>NIP</Group2Name2>
+  <Group2Name3>TITAN</Group2Name3>
+  <Group2Name4>3DMAX</Group2Name4>
+  <Group2Wins1>0</Group2Wins1>
+  <Group2Wins2>0</Group2Wins2>
+  <Group2Wins3>0</Group2Wins3>
+  <Group2Wins4>0</Group2Wins4>
+  <Group3Name1 />
+  <Group3Name2 />
+  <Group3Name3 />
+  <Group3Name4 />
+  <Group3Wins1>0</Group3Wins1>
+  <Group3Wins2>0</Group3Wins2>
+  <Group3Wins3>0</Group3Wins3>
+  <Group3Wins4>0</Group3Wins4>
+  <Group4Name1 />
+  <Group4Name2 />
+  <Group4Name3 />
+  <Group4Name4 />
+  <Group4Wins1>0</Group4Wins1>
+  <Group4Wins2>0</Group4Wins2>
+  <Group4Wins3>0</Group4Wins3>
+  <Group4Wins4>0</Group4Wins4>
+  <PlayoffsTitle>ASUS ROG TOURNAMENT PLAYOFFS</PlayoffsTitle>
+  <PlayoffsJSONUrl>http://tournaments.peliliiga.fi/summer14/tournaments/asus-rog-cs-go/brackets/42.json</PlayoffsJSONUrl>
+  <Ro16Team1 />
+  <Ro16Team2 />
+  <Ro16Team3 />
+  <Ro16Team4 />
+  <Ro16Team5 />
+  <Ro16Team6 />
+  <Ro16Team7 />
+  <Ro16Team8 />
+  <Ro16Team9 />
+  <Ro16Team10 />
+  <Ro16Team11 />
+  <Ro16Team12 />
+  <Ro16Team13 />
+  <Ro16Team14 />
+  <Ro16Team15 />
+  <Ro16Team16 />
+  <Ro16Score1>0</Ro16Score1>
+  <Ro16Score2>0</Ro16Score2>
+  <Ro16Score3>0</Ro16Score3>
+  <Ro16Score4>0</Ro16Score4>
+  <Ro16Score5>0</Ro16Score5>
+  <Ro16Score6>0</Ro16Score6>
+  <Ro16Score7>0</Ro16Score7>
+  <Ro16Score8>0</Ro16Score8>
+  <Ro16Score9>0</Ro16Score9>
+  <Ro16Score10>0</Ro16Score10>
+  <Ro16Score11>0</Ro16Score11>
+  <Ro16Score12>0</Ro16Score12>
+  <Ro16Score13>0</Ro16Score13>
+  <Ro16Score14>0</Ro16Score14>
+  <Ro16Score15>0</Ro16Score15>
+  <Ro16Score16>0</Ro16Score16>
+  <Ro8Team1>TBD</Ro8Team1>
+  <Ro8Team2>TBD</Ro8Team2>
+  <Ro8Team3>TBD</Ro8Team3>
+  <Ro8Team4>TBD</Ro8Team4>
+  <Ro8Team5>TBD</Ro8Team5>
+  <Ro8Team6>TBD</Ro8Team6>
+  <Ro8Team7>TBD</Ro8Team7>
+  <Ro8Team8>TBD</Ro8Team8>
+  <Ro8Score1 />
+  <Ro8Score2 />
+  <Ro8Score3 />
+  <Ro8Score4 />
+  <Ro8Score5 />
+  <Ro8Score6 />
+  <Ro8Score7 />
+  <Ro8Score8 />
+  <Ro4Team1>TBD</Ro4Team1>
+  <Ro4Team2>TBD</Ro4Team2>
+  <Ro4Team3>TBD</Ro4Team3>
+  <Ro4Team4>TBD</Ro4Team4>
+  <Ro4Score1 />
+  <Ro4Score2 />
+  <Ro4Score3 />
+  <Ro4Score4 />
+  <Ro2Team1>TBD</Ro2Team1>
+  <Ro2Team2>TBD</Ro2Team2>
+  <Ro2Score1 />
+  <Ro2Score2 />
+  <Ro8Check>false</Ro8Check>
+  <EndCredits>&lt;h1&gt;PRODUCER&lt;/h1&gt;
+      JOHN DOE
+
+&lt;h1&gt;EDITOR&lt;/h1&gt;
+     JANE DOE
+
+&lt;h1&gt;CAMERA CREW&lt;/h1&gt;
+      MICHAEL PHELPS
+      SONS OF DURIN INC.</EndCredits>
+  <EndCreditsStartPos>1200</EndCreditsStartPos>
+  <EndCreditsLength>50</EndCreditsLength>
+  <infoPanel1Title>COMING UP</infoPanel1Title>
+  <infoPanel1Row1 />
+  <infoPanel1Row2 />
+  <infoPanel1Row3 />
+  <infoPanel2Title>COMING UP</infoPanel2Title>
+  <infoPanel2Row1 />
+  <infoPanel2Row2 />
+  <infoPanel2Row3 />
+  <infoPanel3Title>COMING UP</infoPanel3Title>
+  <infoPanel3Row1 />
+  <infoPanel3Row2 />
+  <infoPanel3Row3 />
+  <infoPanel4Title>RIGHT NOW</infoPanel4Title>
+  <infoPanel4Row1 />
+  <infoPanel4Row2 />
+  <infoPanel4Row3 />
+  <infoPanel5Title>RIGHT NOW</infoPanel5Title>
+  <infoPanel5Row1 />
+  <infoPanel5Row2 />
+  <infoPanel5Row3 />
+  <infoPanel6Title>RIGHT NOW</infoPanel6Title>
+  <infoPanel6Row1 />
+  <infoPanel6Row2 />
+  <infoPanel6Row3 />
+  <infoPanel7Title>BUY SOME ASUS STUFF</infoPanel7Title>
+  <infoPanel7Row1 />
+  <infoPanel7Row2 />
+  <infoPanel7Row3 />
+  <infoPanel8Title>BUY SOME ASUS STUFF</infoPanel8Title>
+  <infoPanel8Row1 />
+  <infoPanel8Row2 />
+  <infoPanel8Row3 />
+  <infoPanel9Title>BUY SOME ASUS STUFF</infoPanel9Title>
+  <infoPanel9Row1 />
+  <infoPanel9Row2 />
+  <infoPanel9Row3 />
+  <scoreBoardName1 />
+  <scoreBoardName2 />
+  <scoreBoardScore1>2</scoreBoardScore1>
+  <scoreBoardScore2>0</scoreBoardScore2>
+  <clockTitle>LOCAL TIME - EET</clockTitle>
+  <countdownTitle>NEXT EVENT IN</countdownTitle>
+  <vsPlayersRoundof>GROUP MATCH</vsPlayersRoundof>
+  <vsTeamsRoundOf>GROUP MATCH</vsTeamsRoundOf>
+</Information>

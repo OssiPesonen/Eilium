@@ -1,0 +1,176 @@
+D:\code\DemoCasparCGClient\DemoCasparCGClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\code\DemoCasparCGClient\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+D:\code\DemoCasparCGClient\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Properties.Resources.resources
+D:\code\DemoCasparCGClient\DemoCasparCGClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\code\DemoCasparCGClient\DemoCasparCGClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\code\DemoCasparCGClient\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe.config
+D:\code\DemoCasparCGClient\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe
+D:\code\DemoCasparCGClient\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.pdb
+D:\code\DemoCasparCGClient\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+D:\code\DemoCasparCGClient\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+D:\code\DemoCasparCGClient\DemoCasparCGClient\bin\Debug\Svt.Caspar.pdb
+D:\code\DemoCasparCGClient\DemoCasparCGClient\bin\Debug\Svt.Network.pdb
+D:\code\DemoCasparCGClient\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.exe
+D:\code\DemoCasparCGClient\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.pdb
+D:\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe.config
+D:\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.exe
+D:\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.pdb
+D:\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe
+D:\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.pdb
+D:\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+D:\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+D:\DemoCasparCGClient\bin\Debug\Svt.Caspar.pdb
+D:\DemoCasparCGClient\bin\Debug\Svt.Network.pdb
+D:\DemoCasparCGClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+D:\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Properties.Resources.resources
+D:\DemoCasparCGClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DemoCasparCGClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe.config
+F:\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.exe
+F:\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.pdb
+F:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe.config
+F:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.exe
+F:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.pdb
+F:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe
+F:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.pdb
+F:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+F:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+F:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Caspar.pdb
+F:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Network.pdb
+F:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+F:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Properties.Resources.resources
+F:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csprojResolveAssemblyReference.cache
+F:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csproj.GenerateResource.Cache
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe.config
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.exe
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.pdb
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.pdb
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Caspar.pdb
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Network.pdb
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csprojResolveAssemblyReference.cache
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Properties.Resources.resources
+E:\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csproj.GenerateResource.Cache
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe.config
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.exe
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.pdb
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.pdb
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Caspar.pdb
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Network.pdb
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csprojResolveAssemblyReference.cache
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Properties.Resources.resources
+C:\Users\Ossi\Documents\CasparCG\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csproj.GenerateResource.Cache
+E:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe.config
+E:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.exe
+E:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.pdb
+E:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csprojResolveAssemblyReference.cache
+E:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+E:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Properties.Resources.resources
+E:\Lantrek CasparCG Client\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csproj.GenerateResource.Cache
+E:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.exe
+E:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\DemoCasparCGClient.pdb
+E:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+E:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+E:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Caspar.pdb
+E:\Lantrek CasparCG Client\DemoCasparCGClient\bin\Debug\Svt.Network.pdb
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe.config
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csprojResolveAssemblyReference.cache
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.Properties.Resources.resources
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.SplashScreen.resources
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csproj.GenerateResource.Cache
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Players.sdf
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe.manifest
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Eilium.application
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Eilium.pdb
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.TrustInfo.xml
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.exe.manifest
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.application
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.exe
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.pdb
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.pdb
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.xml
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Svt.Caspar.Controls.dll
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.Hotkeys.resources
+E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.dll
+Y:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe.config
+Y:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.exe
+Y:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.pdb
+E:\Projektit\CasparCG\Eilium\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe.config
+E:\Projektit\CasparCG\Eilium\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.exe
+E:\Projektit\CasparCG\Eilium\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.pdb
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe.config
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.exe
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.pdb
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Players.sdf
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.pdb
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.dll
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Svt.Caspar.Controls.dll
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.pdb
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.xml
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csprojResolveAssemblyReference.cache
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.Hotkeys.resources
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.Properties.Resources.resources
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.SplashScreen.resources
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csproj.GenerateResource.Cache
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe.config
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.exe
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.pdb
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Players.sdf
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe.manifest
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.application
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.pdb
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.dll
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Svt.Caspar.Controls.dll
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.pdb
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.xml
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csprojResolveAssemblyReference.cache
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.Hotkeys.resources
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.Properties.Resources.resources
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.SplashScreen.resources
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csproj.GenerateResource.Cache
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.TrustInfo.xml
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.exe.manifest
+Y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.application
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe.manifest
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.application
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.TrustInfo.xml
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.exe.manifest
+E:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.application
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe.config
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.exe
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.pdb
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Players.sdf
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.exe
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Eilium.pdb
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.dll
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Svt.Caspar.Controls.dll
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Svt.Caspar.dll
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Svt.Network.dll
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.pdb
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\bin\Debug\Newtonsoft.Json.xml
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csprojResolveAssemblyReference.cache
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.Form1.resources
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.Hotkeys.resources
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\Eilium.Properties.Resources.resources
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.SplashScreen.resources
+H:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\obj\x86\Debug\DemoCasparCGClient.csproj.GenerateResource.Cache

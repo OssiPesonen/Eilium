@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Information xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TemplateFolder>assembly</TemplateFolder>
+  <ServerAddress>localhost</ServerAddress>
+  <AMCPPort>5250</AMCPPort>
+  <OSCPort>5253</OSCPort>
+  <Tulossa1>COUNTER-STRIKE:GLOBAL OFFENSIVE - FINAALI</Tulossa1>
+  <Tulossa2>NA'VI VS VIRTUS PRO</Tulossa2>
+  <Tulossa3>BO3, 10 000$ VOITTAJALLE</Tulossa3>
+  <CasterNicknameLeft>WABBIT</CasterNicknameLeft>
+  <CasterNameLeft>TEEMU HIILINEN</CasterNameLeft>
+  <CasterTwitterLeft>@HIILINEN</CasterTwitterLeft>
+  <CasterNicknameRight>TONTTU</CasterNicknameRight>
+  <CasterNameRight>THOMAS TONTCHEV</CasterNameRight>
+  <CasterTwitterRight>@RTONTTU</CasterTwitterRight>
+  <Twitter1>#ASMPARTY</Twitter1>
+  <Twitter2>LIITY MUKAAN ASSEMBLYILLE!</Twitter2>
+  <BoxLeftTitle>ASSEMBLY TV</BoxLeftTitle>
+  <BoxLeftC1>12:00</BoxLeftC1>
+  <BoxLeftC2>13:00</BoxLeftC2>
+  <BoxLeftC3>14:00</BoxLeftC3>
+  <BoxLeftC4>15:00</BoxLeftC4>
+  <BoxLeftC5>16:00</BoxLeftC5>
+  <BoxLeftC6>17:00</BoxLeftC6>
+  <BoxLeftC7>18:00</BoxLeftC7>
+  <BoxLeftC8>19:00</BoxLeftC8>
+  <BoxLeftT1>AVAJAISET</BoxLeftT1>
+  <BoxLeftT2>ILMOITTAUTUMINEN AVATAAN</BoxLeftT2>
+  <BoxLeftT3>DISKETINHEITTO</BoxLeftT3>
+  <BoxLeftT4>COSPLAY KISA</BoxLeftT4>
+  <BoxLeftT5>YHTEISTYÖKUMPPANIEN HETKI</BoxLeftT5>
+  <BoxLeftT6>ILMOITTAUTUMINEN PÄÄTTYY</BoxLeftT6>
+  <BoxLeftT7>COUNTER-STRIKE LOHKOT</BoxLeftT7>
+  <BoxLeftT8>STARCRAFT 2 PUDOTUSPELIT</BoxLeftT8>
+  <BoxRightTitle>ASSEMBLY TV 2</BoxRightTitle>
+  <BoxRightC1>20:00</BoxRightC1>
+  <BoxRightC2>20:30</BoxRightC2>
+  <BoxRightC3>21:00</BoxRightC3>
+  <BoxRightC4>21:30</BoxRightC4>
+  <BoxRightC5 />
+  <BoxRightC6 />
+  <BoxRightC7 />
+  <BoxRightC8 />
+  <BoxRightT1>TEKKEN FINAALI</BoxRightT1>
+  <BoxRightT2>COUNTER-STRIKE PUDOTUSPELIT</BoxRightT2>
+  <BoxRightT3>COUNTER-STRIKE PUDOTUSPELIT</BoxRightT3>
+  <BoxRightT4>KILPAILU</BoxRightT4>
+  <BoxRightT5 />
+  <BoxRightT6 />
+  <BoxRightT7 />
+  <BoxRightT8 />
+  <GroupTitle>ASSEMBLY SUMMER 2014 - CS:GO LOHKOT</GroupTitle>
+  <Group1Title>LOHKO A</Group1Title>
+  <Group2Title>LOHKO B</Group2Title>
+  <Group3Title>LOHKO C</Group3Title>
+  <Group4Title>LOHKO D</Group4Title>
+  <Group1Name1>NIP</Group1Name1>
+  <Group1Name2>EPSILON</Group1Name2>
+  <Group1Name3>BERZERK</Group1Name3>
+  <Group1Name4>PUBLICLIR.SE</Group1Name4>
+  <Group1Wins1>2</Group1Wins1>
+  <Group1Wins2>2</Group1Wins2>
+  <Group1Wins3>1</Group1Wins3>
+  <Group1Wins4>0</Group1Wins4>
+  <Group1Losses1>0</Group1Losses1>
+  <Group1Losses2>1</Group1Losses2>
+  <Group1Losses3>2</Group1Losses3>
+  <Group1Losses4>2</Group1Losses4>
+  <Group1Scorename1>EPSILON</Group1Scorename1>
+  <Group1Scorename2>NIP</Group1Scorename2>
+  <Group1Scorename3>NIP</Group1Scorename3>
+  <Group1Scorename4>BERZERK</Group1Scorename4>
+  <Group1Scorename5>EPSILON</Group1Scorename5>
+  <Group1Scorename6>PUBLICLIR.SE</Group1Scorename6>
+  <Group1Scorename7>BERZERK</Group1Scorename7>
+  <Group1Scorename8>EPSILON</Group1Scorename8>
+  <Group1Scorename9>PUBICLIR.SE</Group1Scorename9>
+  <Group1Scorename10>BERZERK</Group1Scorename10>
+  <Group1Namescore1>16-3</Group1Namescore1>
+  <Group1Namescore2>16-12</Group1Namescore2>
+  <Group1Namescore3>16-5</Group1Namescore3>
+  <Group1Namescore4>16-4</Group1Namescore4>
+  <Group1Namescore5>16-11</Group1Namescore5>
+  <Group2Name1>VIRTUS.PRO</Group2Name1>
+  <Group2Name2>SK</Group2Name2>
+  <Group2Name3>FNATIC</Group2Name3>
+  <Group2Name4>LONDON C</Group2Name4>
+  <Group2Wins1>2</Group2Wins1>
+  <Group2Wins2>2</Group2Wins2>
+  <Group2Wins3>1</Group2Wins3>
+  <Group2Wins4>0</Group2Wins4>
+  <Group2Losses1>0</Group2Losses1>
+  <Group2Losses2>1</Group2Losses2>
+  <Group2Losses3>2</Group2Losses3>
+  <Group2Losses4>2</Group2Losses4>
+  <Group2Scorename1>VIRTUS.PRO</Group2Scorename1>
+  <Group2Scorename2>SK</Group2Scorename2>
+  <Group2Scorename3>FNATIC</Group2Scorename3>
+  <Group2Scorename4>VIRTUS.PRO</Group2Scorename4>
+  <Group2Scorename5>SK</Group2Scorename5>
+  <Group2Scorename6>LONDON C</Group2Scorename6>
+  <Group2Scorename7>FNATIC</Group2Scorename7>
+  <Group2Scorename8>LONDON C</Group2Scorename8>
+  <Group2Scorename9>SK</Group2Scorename9>
+  <Group2Scorename10>FNATIC</Group2Scorename10>
+  <Group2Namescore1>16-4</Group2Namescore1>
+  <Group2Namescore2>16-9</Group2Namescore2>
+  <Group2Namescore3>16-4</Group2Namescore3>
+  <Group2Namescore4>16-12</Group2Namescore4>
+  <Group2Namescore5>16-10</Group2Namescore5>
+  <Group3Name1>HELLRAISERS</Group3Name1>
+  <Group3Name2>TITAN</Group3Name2>
+  <Group3Name3>REASON</Group3Name3>
+  <Group3Name4>O4O</Group3Name4>
+  <Group3Wins1>2</Group3Wins1>
+  <Group3Wins2>2</Group3Wins2>
+  <Group3Wins3>1</Group3Wins3>
+  <Group3Wins4>0</Group3Wins4>
+  <Group3Losses1>0</Group3Losses1>
+  <Group3Losses2>1</Group3Losses2>
+  <Group3Losses3>2</Group3Losses3>
+  <Group3Losses4>2</Group3Losses4>
+  <Group3Scorename1>TITAN</Group3Scorename1>
+  <Group3Scorename2>HELLRAISERS</Group3Scorename2>
+  <Group3Scorename3>HELLRAISERS</Group3Scorename3>
+  <Group3Scorename4>REASON</Group3Scorename4>
+  <Group3Scorename5>TITAN</Group3Scorename5>
+  <Group3Scorename6>O4O</Group3Scorename6>
+  <Group3Scorename7>REASON</Group3Scorename7>
+  <Group3Scorename8>TITAN</Group3Scorename8>
+  <Group3Scorename9>O4O</Group3Scorename9>
+  <Group3Scorename10>REASON</Group3Scorename10>
+  <Group3Namescore1>16-2</Group3Namescore1>
+  <Group3Namescore2>16-5</Group3Namescore2>
+  <Group3Namescore3>16-6</Group3Namescore3>
+  <Group3Namescore4>16-1</Group3Namescore4>
+  <Group3Namescore5>16-9</Group3Namescore5>
+  <Group4Name1>LEMONDOGS</Group4Name1>
+  <Group4Name2>NATUS VINCERE</Group4Name2>
+  <Group4Name3>FLIPSID3</Group4Name3>
+  <Group4Name4>EXPERT</Group4Name4>
+  <Group4Wins1>2</Group4Wins1>
+  <Group4Wins2>2</Group4Wins2>
+  <Group4Wins3>1</Group4Wins3>
+  <Group4Wins4>0</Group4Wins4>
+  <Group4Losses1>0</Group4Losses1>
+  <Group4Losses2>1</Group4Losses2>
+  <Group4Losses3>2</Group4Losses3>
+  <Group4Losses4>2</Group4Losses4>
+  <Group4Scorename1>NATUS VINCERE</Group4Scorename1>
+  <Group4Scorename2>LEMONDOGS</Group4Scorename2>
+  <Group4Scorename3>LEMONDOGS</Group4Scorename3>
+  <Group4Scorename4>NATUS VINCERE</Group4Scorename4>
+  <Group4Scorename5>NATUS VINCERE</Group4Scorename5>
+  <Group4Scorename6>FLIPSID3</Group4Scorename6>
+  <Group4Scorename7>EXPERT</Group4Scorename7>
+  <Group4Scorename8>FLIPSID3</Group4Scorename8>
+  <Group4Scorename9>EXPERT</Group4Scorename9>
+  <Group4Scorename10>LEMONDOGS</Group4Scorename10>
+  <Group4Namescore1>14-16</Group4Namescore1>
+  <Group4Namescore2>19-17</Group4Namescore2>
+  <Group4Namescore3>16-1</Group4Namescore3>
+  <Group4Namescore4>16-11</Group4Namescore4>
+  <Group4Namescore5>16-5</Group4Namescore5>
+  <PlayoffsTitle>ASSEMBLY SUMMER 2014 - CS:GO PUDOTUSPELIT</PlayoffsTitle>
+  <Ro16Team1 />
+  <Ro16Team2 />
+  <Ro16Team3 />
+  <Ro16Team4 />
+  <Ro16Team5 />
+  <Ro16Team6 />
+  <Ro16Team7 />
+  <Ro16Team8 />
+  <Ro16Team9 />
+  <Ro16Team10 />
+  <Ro16Team11 />
+  <Ro16Team12 />
+  <Ro16Team13 />
+  <Ro16Team14 />
+  <Ro16Team15 />
+  <Ro16Team16 />
+  <Ro16Score1>0</Ro16Score1>
+  <Ro16Score2>0</Ro16Score2>
+  <Ro16Score3>0</Ro16Score3>
+  <Ro16Score4>0</Ro16Score4>
+  <Ro16Score5>0</Ro16Score5>
+  <Ro16Score6>0</Ro16Score6>
+  <Ro16Score7>0</Ro16Score7>
+  <Ro16Score8>0</Ro16Score8>
+  <Ro16Score9>0</Ro16Score9>
+  <Ro16Score10>0</Ro16Score10>
+  <Ro16Score11>0</Ro16Score11>
+  <Ro16Score12>0</Ro16Score12>
+  <Ro16Score13>0</Ro16Score13>
+  <Ro16Score14>0</Ro16Score14>
+  <Ro16Score15>0</Ro16Score15>
+  <Ro16Score16>0</Ro16Score16>
+  <Ro8Team1>LEMONDOGS</Ro8Team1>
+  <Ro8Team2>EPSILON</Ro8Team2>
+  <Ro8Team3>VIRTUS.PRO</Ro8Team3>
+  <Ro8Team4>NATUS VINCERE</Ro8Team4>
+  <Ro8Team5>NIP</Ro8Team5>
+  <Ro8Team6>TITAN</Ro8Team6>
+  <Ro8Team7>HELLRAISERS</Ro8Team7>
+  <Ro8Team8>SK</Ro8Team8>
+  <Ro8Score1>0</Ro8Score1>
+  <Ro8Score2>2</Ro8Score2>
+  <Ro8Score3>0</Ro8Score3>
+  <Ro8Score4>2</Ro8Score4>
+  <Ro8Score5>2</Ro8Score5>
+  <Ro8Score6>1</Ro8Score6>
+  <Ro8Score7>2</Ro8Score7>
+  <Ro8Score8>0</Ro8Score8>
+  <Ro4Team1>EPSILON</Ro4Team1>
+  <Ro4Team2>NATUS VINCERE</Ro4Team2>
+  <Ro4Team3>NIP</Ro4Team3>
+  <Ro4Team4>HELLRAISERS</Ro4Team4>
+  <Ro4Score1>0</Ro4Score1>
+  <Ro4Score2>2</Ro4Score2>
+  <Ro4Score3>2</Ro4Score3>
+  <Ro4Score4>1</Ro4Score4>
+  <Ro2Team1>NIP</Ro2Team1>
+  <Ro2Team2>NATUS VINCERE</Ro2Team2>
+  <Ro2Score1>2</Ro2Score1>
+  <Ro2Score2>0</Ro2Score2>
+  <Ro8Check>false</Ro8Check>
+  <EndCredits>&lt;h1&gt;Tuottaja&lt;/h1&gt;
+Niko "deram" Vähäsarja
+Lauri "late" Kangas
+
+&lt;h1&gt;Ohjaaja&lt;/h1&gt;
+Eero "erkka" Ahola
+
+&lt;h1&gt;Tekninen ohjaus&lt;/h1&gt;
+Nina "Grusomhet" Arramies
+Pauli "boro" Borodulin
+Jon "DbRek" Gibson
+
+&lt;h1&gt;Leikkaaja&lt;/h1&gt;
+Suvi "beeta" Alanko
+Jarno "jnalanko" Alanko
+Kristiina "Iblue" Arokanto
+
+&lt;h1&gt;Kameramiehet&lt;/h1&gt;
+Samuli "Kybermurskaaja" Kaipiainen
+Susanna "Suski" Kalliomäki
+Kim "Kimi" Kauppila
+
+&lt;h1&gt;Mediaohjaus&lt;/h1&gt;
+Mika "mikron" Hyvönen
+Tatu "Mad`Bear" Häkkinen
+Marko "Make" Ijäs
+Niko "np1" Ikonen
+
+&lt;h1&gt;Henkilöstökoordinaattori&lt;/h1&gt;
+Miika "vagers" Väre
+Arttu "luuk" Haglund
+Timo "halen" Halén
+Mikko "mickham" Hammarén
+
+&lt;h1&gt;Tekniikka&lt;/h1&gt;
+Matthew "dotwaffle" Walster
+Mikko "mikkowilson" Wilson
+Tuula "Foxmagon" Ylikorpi
+Aki "Axu" peltokoski
+Jouni "Cornix" Potila
+Teppo "sytem" Rekola
+
+&lt;h1&gt;Käsikirjoitus&lt;/h1&gt;
+Kim "digikim" Viljanen
+Pertti "Dardous" Vähäsarja
+Laura "Clara" Vähäsarja
+
+&lt;h1&gt;Juontajat&lt;/h1&gt;
+Tuomas "Jeccu" Hara
+Ahoura "Tibura" Houshangi
+Joonas "jonttu" Järveläinen
+Juho "Kirjiz" Kirjavainen
+
+&lt;h1&gt;En enää keksi mihin näin monta ihmistä saa mahtumaan&lt;/h1&gt;
+Tommi "UHREG" Klang
+Ilkka "ILR" Klang
+Petri "thoron" Koistinen
+Anssi "Aketzu" Kolehmainen
+Laura "Vield" Koponen
+Anne "S1nk0" Kukkura
+Suvi-Helinä "Karalyn" Kytönen
+Esamatti "Beliar" Käkelä
+Sakari "Nitial" Laitinen
+Vesa "Vesa" Lappalainen
+Santeri "sntr" Lehtonen
+Mikko "mrgoldnugget" Leino
+Tiina "Tiitu" Lepistö
+Retu "retu" Liikanen
+Petteri "typo" Lyytinen
+Jukka "onewey" Lähetkangas
+Tero "SpComb" Marttila
+Juha "emanon" Matilainen
+Ossi "Zouwi" Miikkulainen
+Jani "crypti" Myllyviita
+Juho "Garo" Mäkinen
+Mika "Seteh" Nieminen
+Santtu "Japsu" Pajukanta
+Vesa-Pekka "Depili" Palmu
+Aapeli "aapeli" Palonen
+Ville "Satai" Partanen
+Jarkko "Modulator" Räsänen
+Markus "SuKe^" Saarinen
+Samuli "brtobsvid" Salonen
+Maaren "Marsu" Santanen
+Arto "zar" Seppä
+Tuomas "Solide" Siitonen
+Peter "FRaNKy" Smets
+Outi "Outo-Lint" Sorsa
+Samuli "Samwise" Sorvakko
+Miia "Meea" Syrjä
+Mio "Icchan" Taalas
+Mika Taipola
+Joni "jinot" Tikkanen
+Timo "thjt" Toivanen
+Jaakko "jazzu" Vallo
+
+&lt;h1&gt;Yhteistyössä&lt;/h1&gt;
+Jimm's PC Store
+YLE media
+ROVIO
+SteelSeries
+ASUS</EndCredits>
+  <EndCreditsStartPos>1500</EndCreditsStartPos>
+  <EndCreditsLength>60.0</EndCreditsLength>
+  <RightNow01>STARCRAFT II - FINAALI</RightNow01>
+  <RightNow02>WELMU VS. ELFI</RightNow02>
+  <RightNow03>BO3, GSL FORMAATTI</RightNow03>
+  <InterviewText01>PEKKA "PEHU" AAKKO</InterviewText01>
+  <InterviewText02>PÄÄJÄRJESTÄJÄ</InterviewText02>
+  <InterviewText03>ASSEMBLY</InterviewText03>
+</Information>

@@ -1,0 +1,191 @@
+5.1.2015 11:21:21
+System.Net.WebException: Tiedostoa E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\url to file ei löytynyt. ---> System.Net.WebException: Tiedostoa E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\url to file ei löytynyt. ---> System.IO.FileNotFoundException: Tiedostoa E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\url to file ei löytynyt.
+   kohteessa System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   kohteessa System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   kohteessa System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   kohteessa System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   kohteessa System.Net.FileWebStream..ctor(FileWebRequest request, String path, FileMode mode, FileAccess access, FileShare sharing, Int32 length, Boolean async)
+   kohteessa System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   --- Sisäisen poikkeuksen pinon jäljityksen loppu ---
+   kohteessa System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   kohteessa System.Net.FileWebRequest.GetResponseCallback(Object state)
+   --- Sisäisen poikkeuksen pinon jäljityksen loppu ---
+   kohteessa System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   kohteessa System.Net.WebClient.DownloadString(Uri address)
+   kohteessa System.Net.WebClient.DownloadString(String address)
+   kohteessa DemoCasparCGClient.Form1.fillPlayoffs() tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 1796
+5.1.2015 11:24:00
+System.Net.WebException: Tiedostoa E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\url to file ei löytynyt. ---> System.Net.WebException: Tiedostoa E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\url to file ei löytynyt. ---> System.IO.FileNotFoundException: Tiedostoa E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\url to file ei löytynyt.
+   kohteessa System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   kohteessa System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   kohteessa System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   kohteessa System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   kohteessa System.Net.FileWebStream..ctor(FileWebRequest request, String path, FileMode mode, FileAccess access, FileShare sharing, Int32 length, Boolean async)
+   kohteessa System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   --- Sisäisen poikkeuksen pinon jäljityksen loppu ---
+   kohteessa System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   kohteessa System.Net.FileWebRequest.GetResponseCallback(Object state)
+   --- Sisäisen poikkeuksen pinon jäljityksen loppu ---
+   kohteessa System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   kohteessa System.Net.WebClient.DownloadString(Uri address)
+   kohteessa System.Net.WebClient.DownloadString(String address)
+   kohteessa DemoCasparCGClient.Form1.fillPlayoffs() tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 1796
+
+
+5.1.2015 12:15:32
+Newtonsoft.Json.JsonReaderException: Unexpected character encountered while parsing value: <. Path '', line 0, position 0.
+   kohteessa Newtonsoft.Json.JsonTextReader.ParseValue() tiedostossa c:\Development\Releases\Json\Working\Newtonsoft.Json\Src\Newtonsoft.Json\JsonTextReader.cs:rivillä 1029
+   kohteessa Newtonsoft.Json.JsonTextReader.ReadInternal() tiedostossa c:\Development\Releases\Json\Working\Newtonsoft.Json\Src\Newtonsoft.Json\JsonTextReader.cs:rivillä 382
+   kohteessa Newtonsoft.Json.JsonTextReader.Read() tiedostossa c:\Development\Releases\Json\Working\Newtonsoft.Json\Src\Newtonsoft.Json\JsonTextReader.cs:rivillä 303
+   kohteessa Newtonsoft.Json.Linq.JObject.Load(JsonReader reader) tiedostossa c:\Development\Releases\Json\Working\Newtonsoft.Json\Src\Newtonsoft.Json\Linq\JObject.cs:rivillä 330
+   kohteessa Newtonsoft.Json.Linq.JObject.Parse(String json) tiedostossa c:\Development\Releases\Json\Working\Newtonsoft.Json\Src\Newtonsoft.Json\Linq\JObject.cs:rivillä 364
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 1555
+ 
+16.1.2015 12:10:02
+System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = nationality ]
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   kohteessa DemoCasparCGClient.Form1.insertTeam(String name, String nationality, String text, String imagepath) tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2826
+ 
+16.1.2015 14:23:28
+System.IndexOutOfRangeException: Indeksi oli taulukon alueen ulkopuolella.
+   kohteessa DemoCasparCGClient.Form1.insertPlayer(String name, String nickname, String text, String imagepath, Int32 team_id) tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2646
+ 
+16.1.2015 18:51:46
+System.Data.SqlServerCe.SqlCeException (0x80004005): There was an error parsing the query. [ Token line number = 1,Token line offset = 89,Token in error = id ]
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   kohteessa DemoCasparCGClient.Form1.updateTeam(Int32 id, String name, String nationality, String imagepath, String text) tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2955
+ 
+16.1.2015 18:52:39
+System.Data.SqlServerCe.SqlCeException (0x80004005): There was an error parsing the query. [ Token line number = 1,Token line offset = 89,Token in error = id ]
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   kohteessa DemoCasparCGClient.Form1.updateTeam(Int32 id, String name, String nationality, String imagepath, String text) tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2955
+ 
+17.1.2015 10:53:14
+System.Data.SqlServerCe.SqlCeException (0x80004005): There was an error parsing the query. [ Token line number = 1,Token line offset = 89,Token in error = id ]
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   kohteessa DemoCasparCGClient.Form1.updateTeam(Int32 id, String name, String nationality, String imagepath, String text) tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2955
+ 
+17.1.2015 12:59:19
+System.Data.SqlServerCe.SqlCeException (0x80004005): There was an error parsing the query. [ Token line number = 1,Token line offset = 89,Token in error = id ]
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   kohteessa DemoCasparCGClient.Form1.updateTeam(Int32 id, String name, String nationality, String imagepath, String text) tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2955
+ 
+17.1.2015 13:07:02
+System.Data.SqlServerCe.SqlCeException (0x80004005): There was an error parsing the query. [ Token line number = 1,Token line offset = 89,Token in error = id ]
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   kohteessa DemoCasparCGClient.Form1.updateTeam(Int32 id, String name, String nationality, String imagepath, String text) tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2955
+ 
+17.1.2015 13:08:34
+System.Data.SqlServerCe.SqlCeException (0x80004005): The column name is not valid. [ Node name (if any) = ,Column name = nickname ]
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.CompileQueryPlan()
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   kohteessa System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   kohteessa DemoCasparCGClient.Form1.updateTeam(Int32 id, String name, String nationality, String imagepath, String text) tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2955
+ 
+21.1.2015 19:37:26
+System.Net.WebException: Tiedostoa E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\url to file ei löytynyt. ---> System.Net.WebException: Tiedostoa E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\url to file ei löytynyt. ---> System.IO.FileNotFoundException: Tiedostoa E:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\bin\Debug\url to file ei löytynyt.
+   kohteessa System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   kohteessa System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   kohteessa System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   kohteessa System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   kohteessa System.Net.FileWebStream..ctor(FileWebRequest request, String path, FileMode mode, FileAccess access, FileShare sharing, Int32 length, Boolean async)
+   kohteessa System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   --- Sisäisen poikkeuksen pinon jäljityksen loppu ---
+   kohteessa System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean asyncHint)
+   kohteessa System.Net.FileWebRequest.GetResponseCallback(Object state)
+   --- Sisäisen poikkeuksen pinon jäljityksen loppu ---
+   kohteessa System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   kohteessa System.Net.WebClient.DownloadString(Uri address)
+   kohteessa System.Net.WebClient.DownloadString(String address)
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa e:\Projektit\Eilium\dev-18-12-2014\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2122
+ 
+24.1.2015 15:08:50
+System.ArgumentException: DataSource-tietojoukon sisältävää yhdistelmäruutua ei voi lajitella. Lajittele tiedot alla olevan tietomallin mukaisesti.
+   kohteessa System.Windows.Forms.ComboBox.set_Sorted(Boolean value)
+   kohteessa DemoCasparCGClient.Form1.loadDatabaseToCombobox(ComboBox cbox, String databasename) tiedostossa y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2992
+ 
+24.1.2015 15:08:53
+System.ArgumentException: DataSource-tietojoukon sisältävää yhdistelmäruutua ei voi lajitella. Lajittele tiedot alla olevan tietomallin mukaisesti.
+   kohteessa System.Windows.Forms.ComboBox.set_Sorted(Boolean value)
+   kohteessa DemoCasparCGClient.Form1.loadDatabaseToCombobox(ComboBox cbox, String databasename) tiedostossa y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2992
+ 
+24.1.2015 15:08:56
+System.ArgumentException: DataSource-tietojoukon sisältävää yhdistelmäruutua ei voi lajitella. Lajittele tiedot alla olevan tietomallin mukaisesti.
+   kohteessa System.Windows.Forms.ComboBox.set_Sorted(Boolean value)
+   kohteessa DemoCasparCGClient.Form1.loadDatabaseToCombobox(ComboBox cbox, String databasename) tiedostossa y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2992
+ 
+24.1.2015 15:08:58
+System.ArgumentException: DataSource-tietojoukon sisältävää yhdistelmäruutua ei voi lajitella. Lajittele tiedot alla olevan tietomallin mukaisesti.
+   kohteessa System.Windows.Forms.ComboBox.set_Sorted(Boolean value)
+   kohteessa DemoCasparCGClient.Form1.loadDatabaseToCombobox(ComboBox cbox, String databasename) tiedostossa y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2992
+ 
+24.1.2015 15:09:00
+System.ArgumentException: DataSource-tietojoukon sisältävää yhdistelmäruutua ei voi lajitella. Lajittele tiedot alla olevan tietomallin mukaisesti.
+   kohteessa System.Windows.Forms.ComboBox.set_Sorted(Boolean value)
+   kohteessa DemoCasparCGClient.Form1.loadDatabaseToCombobox(ComboBox cbox, String databasename) tiedostossa y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2992
+ 
+24.1.2015 15:09:02
+System.ArgumentException: DataSource-tietojoukon sisältävää yhdistelmäruutua ei voi lajitella. Lajittele tiedot alla olevan tietomallin mukaisesti.
+   kohteessa System.Windows.Forms.ComboBox.set_Sorted(Boolean value)
+   kohteessa DemoCasparCGClient.Form1.loadDatabaseToCombobox(ComboBox cbox, String databasename) tiedostossa y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2992
+ 
+24.1.2015 15:09:03
+System.ArgumentException: DataSource-tietojoukon sisältävää yhdistelmäruutua ei voi lajitella. Lajittele tiedot alla olevan tietomallin mukaisesti.
+   kohteessa System.Windows.Forms.ComboBox.set_Sorted(Boolean value)
+   kohteessa DemoCasparCGClient.Form1.loadDatabaseToCombobox(ComboBox cbox, String databasename) tiedostossa y:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2992
+ 
+27.2.2015 19:03:30
+System.NullReferenceException: Objektin viittaukseksi ei voi määrittää objektiesiintymää.
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa h:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2326
+ 
+27.2.2015 19:03:53
+System.NullReferenceException: Objektin viittaukseksi ei voi määrittää objektiesiintymää.
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa h:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2326
+ 
+27.2.2015 19:06:30
+System.NullReferenceException: Objektin viittaukseksi ei voi määrittää objektiesiintymää.
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa h:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2326
+ 
+27.2.2015 19:07:25
+System.NullReferenceException: Objektin viittaukseksi ei voi määrittää objektiesiintymää.
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa h:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2320
+ 
+27.2.2015 19:08:18
+System.NullReferenceException: Objektin viittaukseksi ei voi määrittää objektiesiintymää.
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa h:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2327
+ 
+27.2.2015 19:09:37
+System.NullReferenceException: Objektin viittaukseksi ei voi määrittää objektiesiintymää.
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa h:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2327
+ 
+27.2.2015 19:09:40
+System.NullReferenceException: Objektin viittaukseksi ei voi määrittää objektiesiintymää.
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa h:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2327
+ 
+27.2.2015 19:09:46
+System.NullReferenceException: Objektin viittaukseksi ei voi määrittää objektiesiintymää.
+   kohteessa DemoCasparCGClient.Form1.fillGroups() tiedostossa h:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 2327
+ 
+8.3.2015 1:41:17
+System.NullReferenceException: Objektin viittaukseksi ei voi määrittää objektiesiintymää.
+   kohteessa DemoCasparCGClient.Form1.deleteTeam(ComboBox cbox, TextBox idbox) tiedostossa h:\Projektit\CasparCG\Eilium - Control Software\dev-22-01-2015\Eilium\DemoCasparCGClient\Form1.cs:rivillä 3448
+ 

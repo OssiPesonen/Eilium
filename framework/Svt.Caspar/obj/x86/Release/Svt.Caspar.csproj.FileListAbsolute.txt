@@ -1,0 +1,51 @@
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll.config
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.pdb
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Release\Svt.Network.dll
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Release\Svt.Network.pdb
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Release\ResolveAssemblyReference.cache
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.Properties.Resources.resources
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Release\ResGen.read.1.tlog
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Release\ResGen.write.1.tlog
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.dll
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.pdb
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll.config
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.pdb
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Network.dll
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Network.pdb
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.csprojResolveAssemblyReference.cache
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.Properties.Resources.resources
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.csproj.GenerateResource.Cache
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.dll
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.pdb
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll.config
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.pdb
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Network.dll
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\bin\x86\Release\Svt.Network.pdb
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.csprojResolveAssemblyReference.cache
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.Properties.Resources.resources
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.csproj.GenerateResource.Cache
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.dll
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.pdb
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll.config
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.pdb
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Network.dll
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Network.pdb
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.csprojResolveAssemblyReference.cache
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.Properties.Resources.resources
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.csproj.GenerateResource.Cache
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.dll
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.pdb
+E:\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll.config
+E:\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.dll
+E:\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Caspar.pdb
+E:\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Network.dll
+E:\Eilium\framework\Svt.Caspar\bin\x86\Release\Svt.Network.pdb
+E:\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.csprojResolveAssemblyReference.cache
+E:\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.Properties.Resources.resources
+E:\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.csproj.GenerateResource.Cache
+E:\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.dll
+E:\Eilium\framework\Svt.Caspar\obj\x86\Release\Svt.Caspar.pdb

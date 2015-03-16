@@ -1,0 +1,11 @@
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Develop\Svt.Caspar.dll.config
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Develop\Svt.Caspar.dll
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Develop\Svt.Caspar.pdb
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Develop\Svt.Network.dll
+D:\code\CasparCGPlayout\framework\Svt.Caspar\bin\x86\Develop\Svt.Network.pdb
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Develop\ResolveAssemblyReference.cache
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Develop\Svt.Caspar.Properties.Resources.resources
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Develop\ResGen.read.1.tlog
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Develop\ResGen.write.1.tlog
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Develop\Svt.Caspar.dll
+D:\code\CasparCGPlayout\framework\Svt.Caspar\obj\x86\Develop\Svt.Caspar.pdb

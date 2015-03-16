@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hotkeyMap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <informationHotkey>F1</informationHotkey>
+  <countdownHotkey>F3</countdownHotkey>
+  <clockHotkey>F2</clockHotkey>
+  <casterHotkey>F4</casterHotkey>
+  <twitterHotkey>F7</twitterHotkey>
+  <scheduleHotkey>F9</scheduleHotkey>
+  <sponsorsKeys>F10</sponsorsKeys>
+  <groupsHotkey>F11</groupsHotkey>
+  <playoffsHotkey>F12</playoffsHotkey>
+  <presentationHotkey>D3</presentationHotkey>
+  <endcreditHotkey>D4</endcreditHotkey>
+  <interviewHotkey>F8</interviewHotkey>
+  <vsPlayersHotkey>D1</vsPlayersHotkey>
+  <vsTeamsHotkey>D2</vsTeamsHotkey>
+  <hideAll>D5</hideAll>
+  <guestHotkey>G</guestHotkey>
+  <panelistHotkey>D</panelistHotkey>
+  <hsIngameHotkey>K</hsIngameHotkey>
+  <switchHSIngameHotkey>None</switchHSIngameHotkey>
+  <casparCGTemplateFolder>H:\Projektit\CasparCG\CasparCG Server\templates</casparCGTemplateFolder>
+</hotkeyMap>

@@ -1,0 +1,24 @@
+D:\code\CasparCGPlayout\framework\Svt.Network\bin\x86\Release\Svt.Network.dll
+D:\code\CasparCGPlayout\framework\Svt.Network\bin\x86\Release\Svt.Network.pdb
+D:\code\CasparCGPlayout\framework\Svt.Network\obj\x86\Release\ResolveAssemblyReference.cache
+D:\code\CasparCGPlayout\framework\Svt.Network\obj\x86\Release\Svt.Network.dll
+D:\code\CasparCGPlayout\framework\Svt.Network\obj\x86\Release\Svt.Network.pdb
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Network\bin\x86\Release\Svt.Network.dll
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Network\bin\x86\Release\Svt.Network.pdb
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Network\obj\x86\Release\Svt.Network.dll
+E:\CasparCG\Lantrek CasparCG Client\framework\Svt.Network\obj\x86\Release\Svt.Network.pdb
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Network\bin\x86\Release\Svt.Network.dll
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Network\bin\x86\Release\Svt.Network.pdb
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Network\obj\x86\Release\Svt.Network.csprojResolveAssemblyReference.cache
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Network\obj\x86\Release\Svt.Network.dll
+E:\Projektit\CasparCG\Lantrek CasparCG Client\framework\Svt.Network\obj\x86\Release\Svt.Network.pdb
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Network\bin\x86\Release\Svt.Network.dll
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Network\bin\x86\Release\Svt.Network.pdb
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Network\obj\x86\Release\Svt.Network.csprojResolveAssemblyReference.cache
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Network\obj\x86\Release\Svt.Network.dll
+C:\Users\Ossi\Documents\Eilium\framework\Svt.Network\obj\x86\Release\Svt.Network.pdb
+E:\Eilium\framework\Svt.Network\bin\x86\Release\Svt.Network.dll
+E:\Eilium\framework\Svt.Network\bin\x86\Release\Svt.Network.pdb
+E:\Eilium\framework\Svt.Network\obj\x86\Release\Svt.Network.csprojResolveAssemblyReference.cache
+E:\Eilium\framework\Svt.Network\obj\x86\Release\Svt.Network.dll
+E:\Eilium\framework\Svt.Network\obj\x86\Release\Svt.Network.pdb
