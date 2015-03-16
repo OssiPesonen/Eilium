@@ -2,12 +2,16 @@
 
 Eilium is a CasparCG Control Panel software created and customized for eSports (electronic sports) events in Finland.
 
+![Eilium Front](http://dev.ossipesonen.fi/eilium_front.jpg)
+
 **The program has been used on national television and other events**
 
 * Winter 2014, Lantrek '14. The first eSports tournament broadcast ever that was sent to national TV station web broadcasting service (YLE Areena)
 * Summer 2014, Assembly Summer 2014. The first ever eSports tournament that was broadcasted on national television (YLE TV2) 
 * Winter 2015, Assembly Winter 2015. The ASUS ROG CS:GO Tournament was broadcasted on national television (YLE TV2) 
 * Winter 2015, Lantrek '15. The CMStorm CS:GO Tournament was broadcasted on national television (YLE TV2)
+
+[Here is the recorded broadcast from Lantrek '15.](http://areena.kokeile.yle.fi/1-2603610) The material seen from the event venue are played through Eilium.
 
 ##Code & Guide
 
@@ -26,6 +30,8 @@ and each broadcast post chose the folder they had to use.
 * There are hotkeys. Some might not work. You can use the XML to alter them.
 * There is a folder path which should be set to where the Server is. This path is nescessary for something, I cannot remember what, in the program. 
 * The client can connect to an external server in a properly set local area network (another windows machine). I cannot remember if Windows Firewall had something to do with this.
+* There is a database file for storing player & team data inserted into the program so you won't have to rewrite everything every time.
+* Eilium also has a very gruesome data fetching from the [Tournament Management System](http://tournaments.peliliiga.fi/winter15) we use on these events helping us at updating scores in group and playoff stages.
 
 ## Templates
 
