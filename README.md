@@ -13,6 +13,9 @@ Eilium is a CasparCG Control Panel software created and customized for eSports (
 
 [Here is the recorded broadcast from Lantrek '15.](http://areena.kokeile.yle.fi/1-2603610) The material seen from the event venue are played through Eilium.
 
+Licence: [MIT License](http://opensource.org/licenses/MIT)
+- Free to use, distribute, sell w\e
+
 ##Code & Guide
 
 Please, do not shoot me for I have not commented much in the code and for some parts, it sucks.
